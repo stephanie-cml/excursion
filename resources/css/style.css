@@ -1,0 +1,35 @@
+* {
+  background-color: black;
+  font-family: verdana;
+  font-weight: normal;
+  text-align: center;
+}
+
+#title {
+color: white;
+font-size: 50px;
+}
+
+.link {
+  color: "aquamarine";
+  font-size: 16px;
+  text-align: center;
+}
+
+.subtitle {
+  color: white;
+  font-weight: 300;
+  font-size: 42px;
+  text-align: center;
+}
+
+p {
+  font-size: 21px;
+  color: gray;
+  text-align: center;
+}
+
+#footer {
+  text-align: right;
+  color: gray;
+}
